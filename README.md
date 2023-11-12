@@ -1,6 +1,6 @@
 # IEEE Computer Society Student Branch Website 
 
-Welcome to the repository for the official website of the IEEE Computer Society Student Branch. This project is built using Vue.js 3 and Tailwind CSS to create a modern and responsive website for our student community. This project is being deployed to: https://wonderful-pond-0213cc10f.4.azurestaticapps.net/
+Welcome to the repository for the official website of the IEEE Computer Society Student Branch. This project is built using Vue.js 3 and Tailwind CSS to create a modern and responsive website for our student community. This project is being deployed to: https://wonderful-pond-0213cc10f.4.azurestaticapps.net
 
 ## Project Overview
 
